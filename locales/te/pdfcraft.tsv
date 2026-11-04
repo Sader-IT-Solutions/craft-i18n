@@ -2127,3 +2127,4 @@ signature pad	Type	టైప్ చేయి
 	“{name}” has security restrictions. Enter its permissions password to lift them.	“{name}”కు భద్రతా పరిమితులు ఉన్నాయి. వాటిని తొలగించడానికి దాని అనుమతుల పాస్‌వర్డ్‌ను నమోదు చేయండి.
 	“{name}” is protected. Enter a password to open it.	“{name}” రక్షించబడింది. దీన్ని తెరవడానికి పాస్‌వర్డ్‌ను నమోదు చేయండి.
 	−LOC	−పంక్తులు
+	Right-to-left page order	కుడి నుండి ఎడమకు పేజీ క్రమం

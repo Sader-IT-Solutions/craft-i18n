@@ -2266,3 +2266,4 @@ signature pad	Type	Въвеждане
 	“{name}” has security restrictions. Enter its permissions password to lift them.	„{name}“ има ограничения за защита. Въведете паролата за разрешения, за да ги премахнете.
 	“{name}” is protected. Enter a password to open it.	„{name}“ е защитен. Въведете парола, за да го отворите.
 	−LOC	−LOC
+	Right-to-left page order	Ред на страниците отдясно наляво

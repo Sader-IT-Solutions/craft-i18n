@@ -2252,3 +2252,4 @@ signature pad	Type	Ввести
 	“{name}” has security restrictions. Enter its permissions password to lift them.	«{name}» має обмеження захисту. Введіть пароль дозволів, щоб зняти їх.
 	“{name}” is protected. Enter a password to open it.	«{name}» захищено. Введіть пароль, щоб відкрити файл.
 	−LOC	−LOC
+	Right-to-left page order	Порядок сторінок справа наліво

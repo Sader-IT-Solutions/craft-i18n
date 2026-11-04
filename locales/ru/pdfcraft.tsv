@@ -2216,3 +2216,4 @@ key	Space	Пробел
 	“{name}” changed on disk after it was opened or last saved. Saving now replaces that newer version with this one.	«{name}» был изменён на диске после открытия или последнего сохранения. Сохранение сейчас заменит ту более новую версию этой.
 	“{name}” has security restrictions. Enter its permissions password to lift them.	У «{name}» есть ограничения безопасности. Введите пароль разрешений, чтобы снять их.
 	“{name}” is protected. Enter a password to open it.	«{name}» защищён. Введите пароль для открытия.
+	Right-to-left page order	Порядок страниц справа налево

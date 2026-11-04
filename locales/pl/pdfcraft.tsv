@@ -2358,3 +2358,4 @@ signature pad	Type	Wpisz
 	“{name}” has security restrictions. Enter its permissions password to lift them.	Plik „{name}” ma ograniczenia zabezpieczeń. Wpisz jego hasło uprawnień, aby je znieść.
 	“{name}” is protected. Enter a password to open it.	Plik „{name}” jest chroniony. Wpisz hasło, aby go otworzyć.
 	−LOC	−LOC
+	Right-to-left page order	Kolejność stron od prawej do lewej

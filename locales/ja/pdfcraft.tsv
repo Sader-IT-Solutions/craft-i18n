@@ -2235,3 +2235,4 @@ signature pad	Type	入力
 	“{name}” has security restrictions. Enter its permissions password to lift them.	「{name}」にはセキュリティの制限があります。制限を解除するには権限パスワードを入力してください。
 	“{name}” is protected. Enter a password to open it.	「{name}」は保護されています。開くためのパスワードを入力してください。
 	−LOC	−LOC
+	Right-to-left page order	右から左へのページ順

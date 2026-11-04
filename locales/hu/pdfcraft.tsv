@@ -2250,3 +2250,4 @@ signature pad	Type	Gépelés
 	“{name}” has security restrictions. Enter its permissions password to lift them.	„{name}” biztonsági korlátozásokat tartalmaz. Add meg a jogosultsági jelszavát a feloldásukhoz.
 	“{name}” is protected. Enter a password to open it.	„{name}” védett. Add meg a jelszót a megnyitásához.
 	−LOC	−LOC
+	Right-to-left page order	Jobbról balra haladó oldalsorrend

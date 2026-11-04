@@ -2489,3 +2489,9 @@ calendar weekday	We	Me
 	“{name}” is protected. Enter a password to open it.	«{name}» est protégé. Saisissez un mot de passe pour l'ouvrir.
 	… and {n} more	… et {n} autres
 	−LOC	−LOC
+	Right-to-left page order	Ordre des pages de droite à gauche
+	Text direction	Direction du texte
+	Automatic text direction	Direction automatique du texte
+	Left to right (LTR)	De gauche à droite (LTR)
+	Right to left (RTL)	De droite à gauche (RTL)
+	Finish composing text before applying this action.	Terminez la composition du texte avant d’effectuer cette action.

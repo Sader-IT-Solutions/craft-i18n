@@ -2228,3 +2228,9 @@ signature pad	Type	Tippen
 	“{name}” has security restrictions. Enter its permissions password to lift them.	„{name}“ hat Sicherheitseinschränkungen. Gib das Berechtigungspasswort ein, um sie aufzuheben.
 	“{name}” is protected. Enter a password to open it.	„{name}“ ist geschützt. Gib ein Passwort ein, um es zu öffnen.
 	−LOC	−LOC
+	Right-to-left page order	Seitenreihenfolge von rechts nach links
+	Text direction	Textrichtung
+	Automatic text direction	Automatische Textrichtung
+	Left to right (LTR)	Von links nach rechts (LTR)
+	Right to left (RTL)	Von rechts nach links (RTL)
+	Finish composing text before applying this action.	Schließen Sie die Texteingabe ab, bevor Sie diese Aktion ausführen.

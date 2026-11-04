@@ -2233,3 +2233,4 @@ signature pad	Type	Теру
 	“{name}” has security restrictions. Enter its permissions password to lift them.	«{name}» құжатында қауіпсіздік шектеулері бар. Оларды алып тастау үшін рұқсаттар құпиясөзін енгізіңіз.
 	“{name}” is protected. Enter a password to open it.	«{name}» қорғалған. Ашу үшін құпиясөзді енгізіңіз.
 	−LOC	−LOC
+	Right-to-left page order	Беттердің оңнан солға реті

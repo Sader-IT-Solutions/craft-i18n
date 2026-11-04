@@ -2230,3 +2230,4 @@ signature pad	Type	Vtipkaj
 	“{name}” has security restrictions. Enter its permissions password to lift them.	Dokument »{name}« ima varnostne omejitve. Vnesite geslo za dovoljenja, da jih odpravite.
 	“{name}” is protected. Enter a password to open it.	„{name}“ je zaščiten. Za odpiranje vnesite geslo.
 	−LOC	−LOC
+	Right-to-left page order	Vrstni red strani od desne proti levi

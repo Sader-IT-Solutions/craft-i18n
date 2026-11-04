@@ -2203,3 +2203,4 @@ key	Space	空格
 	“{name}” has security restrictions. Enter its permissions password to lift them.	「{name}」有安全限制。請輸入其許可權密碼以解除限制。
 	“{name}” is protected. Enter a password to open it.	「{name}」受保護。請輸入密碼以開啟。
 	−LOC	刪除行
+	Right-to-left page order	由右至左的頁面順序

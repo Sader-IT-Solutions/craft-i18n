@@ -2256,3 +2256,4 @@ signature pad	Type	Πληκτρολόγηση
 	“{name}” has security restrictions. Enter its permissions password to lift them.	Το «{name}» έχει περιορισμούς ασφαλείας. Εισαγάγετε τον κωδικό δικαιωμάτων για να αρθούν οι περιορισμοί.
 	“{name}” is protected. Enter a password to open it.	Το «{name}» προστατεύεται. Εισαγάγετε κωδικό πρόσβασης για να το ανοίξετε.
 	−LOC	−Γραμμές
+	Right-to-left page order	Σειρά σελίδων από δεξιά προς αριστερά
